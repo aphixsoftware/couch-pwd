@@ -1,6 +1,6 @@
 {
-  "name": "couch-pwd",
-  "version": "0.0.1",
+  "name": "couch-pwd-updated",
+  "version": "1.0.0",
   "description": "CouchDB salt and password generation with PBKDF2",
   "main": "index.js",
   "scripts": {
@@ -17,10 +17,10 @@
     "name": "Mirco Zeiss",
     "email": "mirco.zeiss@gmail.com",
     "twitter": "zeMirco"
-  },
+  },  
   "repository": {
     "type": "git",
-    "url": "https://github.com/zeMirco/couch-pwd"
+    "url": "https://github.com/aphixsoftware/couch-pwd"
   },
   "license": "MIT",
   "devDependencies": {
